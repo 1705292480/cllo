@@ -1,8 +1,0 @@
-filetype语法:
-filetype就是针对特定文件类型进行搜索
-如xxx filetype:xls
-filetype:---------为特定语法
-xls----------------为目标
-意思是搜索有关的表格文件
-
-同理filetype:pdf 搜索相关的pdf文件

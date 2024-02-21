@@ -1,4 +1,0 @@
-intitle语法:
-intitle就是返回指定关键词
-用法:intitle:+关键词(注:冒号必须为英文状态下的)
-查找网页后台建议:intitle +xxx
